@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.web-container{
+    margin: 0 auto;
+    padding: 21px 0;
+    max-width: 1440px;
+    width: 90%;
+}
